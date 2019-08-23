@@ -1,6 +1,6 @@
 # crypto-view
 
-crypto-view is a UI tool to view crypto currency exchanges in real time with euros per minute that I developed together with [2namenlos0](https://github.com/2namenlos0).
+crypto-view is a UI tool to view crypto currency exchanges in real time with euros per minute that is developed by [2namenlos0](https://github.com/2namenlos0) and [Timon Paßlick](https://github.com/TimonPasslick).
 
 It's a Python app that uses tkinter and ccxt.
 
