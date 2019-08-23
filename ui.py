@@ -4,7 +4,7 @@ from fetch_exchanges import update_data_points
 from linear_regression import gradient, square_error
 
 window = Tk()
-window.title('CryptoView')
+window.title('crypto-view')
 
 currency_data = [
     ['BTC', 'Bitcoin'],
